@@ -6,7 +6,6 @@
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Technologies
