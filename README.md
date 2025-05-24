@@ -18,5 +18,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Aethenyx&color=blue)](https://github.com/Aethenyx)
 [![GitHub followers](https://img.shields.io/github/followers/Aethenyx?label=Follow&style=social)](https://github.com/Aethenyx)
 
-## Scan for to access on other devices
+## Scan for access on other devices
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/Aethenyx)
