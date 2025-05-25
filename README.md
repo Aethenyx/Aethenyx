@@ -7,7 +7,8 @@
 ## Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Technologies
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=black)
@@ -17,6 +18,3 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aethenyx&color=blue)](https://github.com/Aethenyx)
 [![GitHub followers](https://img.shields.io/github/followers/Aethenyx?label=Follow&style=social)](https://github.com/Aethenyx)
-
-## Scan for access on other devices
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/Aethenyx)
