@@ -30,10 +30,3 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aethenyx&color=blue)](https://github.com/Aethenyx)
 [![GitHub followers](https://img.shields.io/github/followers/Aethenyx?label=Follow&style=social)](https://github.com/Aethenyx)
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
