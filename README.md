@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aethenyx&show_icons=true&theme=radical" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aethenyx&layout=compact&theme=dark&bg_color=000000&langs_count=8" width="500"/>
-
-
 
   ## Languages and Technologies
   [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,stackoverflow&perline=13)](#)
