@@ -19,4 +19,4 @@
  </p>
 </p>
 
-![Snake animation](https://github.com/Aethenyx/Aethenyx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aethenyx/aethenyx/blob/output/github-contribution-grid-snake.svg)
