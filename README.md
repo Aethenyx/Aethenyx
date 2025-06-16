@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aethenyx&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aethenyx&theme=github_dark" alt="Profile Summary Card" />
 </p>
 
