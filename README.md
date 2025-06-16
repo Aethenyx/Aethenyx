@@ -18,3 +18,5 @@
        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
  </p>
 </p>
+
+![Snake animation](https://github.com/Aethenyx/Aethenyx/blob/output/github-contribution-grid-snake.svg)
