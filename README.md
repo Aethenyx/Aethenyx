@@ -14,7 +14,7 @@
 
 <div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aethenyx&layout=compact&theme=dark&hide=tex,jupyter%20notebook&langs_count=6&exclude_repo=)](https://github.com/Aethenyx)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aethenyx&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 </div>
 
