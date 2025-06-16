@@ -5,7 +5,7 @@
 <p align="center">
 
   ## Languages and Technologies
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode,stackoverflow&perline=13)](#)
+  [![My Skills](https://skillicons.dev/icons?i=python,flask,django,html,css,tailwind,js,git,github,vscode,stackoverflow&perline=13)](#)
 
    [![Profile Views](https://komarev.com/ghpvc/?username=Aethenyx&color=blue)](https://github.com/Aethenyx)
    [![GitHub followers](https://img.shields.io/github/followers/Aethenyx?label=Follow&style=social)](https://github.com/Aethenyx)
