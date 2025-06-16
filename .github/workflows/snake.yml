@@ -12,16 +12,10 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: aethenyx  # Your GitHub username
+          github_user_name: aethenyx
           svg_out_path: dist/github-contribution-grid-snake.svg
-          # Dark mode settings
-          color: |
-            {
-              "background": "#0d1117",  # GitHub dark bg
-              "grid": "#161b22",       # Dark grid lines
-              "snake": "#58a6ff",       # GitHub blue snake
-              "poop": "#f78166"        # Contrast color for "eaten" squares
-            }
+          # Dark mode settings (simplified JSON format)
+          color: '{"background":"#0d1117","grid":"#161b22","snake":"#58a6ff","poop":"#f78166"}'
           
       - uses: crazy-max/ghaction-github-pages@v3
         with:
