@@ -12,6 +12,12 @@
   <strong>NOTE</strong>: You can <strong>fork</strong> and <strong>contribute</strong> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 </p>
 
+<div align="center">
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aethenyx&layout=compact&theme=dark&hide=html,css)](https://github.com/Aethenyx)
+
+</div>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aethenyx&theme=github_dark" alt="Profile Summary Card" />
 </p>
