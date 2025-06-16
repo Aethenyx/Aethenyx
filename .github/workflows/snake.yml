@@ -1,9 +1,9 @@
-name: Snake Animation
+name: Snake Animation (Dark Mode)
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight (UTC)
-  workflow_dispatch:      # Allows manual runs
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
 
 jobs:
   build:
@@ -12,8 +12,16 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: Aethenyx
+          github_user_name: Aethenyx  # Your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
+          # Dark mode settings
+          color: |
+            {
+              "background": "#0d1117",  # GitHub dark bg
+              "grid": "#161b22",       # Dark grid lines
+              "snake": "#58a6ff",       # GitHub blue snake
+              "poop": "#f78166"        # Contrast color for "eaten" squares
+            }
           
       - uses: crazy-max/ghaction-github-pages@v3
         with:
