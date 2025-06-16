@@ -15,7 +15,7 @@
 <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aethenyx&layout=compact&theme=dark&hide_border=true&langs_count=10)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aethenyx&show_icons=true&theme=dark&hide_border=true)
 </div>
 
 <p align="center">
