@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aethenyx&color=blue" alt="Profile views" /> 
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shahradelahi">
   <img src="https://img.shields.io/github/followers/Aethenyx?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
