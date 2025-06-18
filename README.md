@@ -5,7 +5,7 @@
 <h2 align="center">Languages and Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,tailwind,js,git,github,vscode,stackoverflow,c#&perline=6" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,tailwind,js,git,github,vscode,stackoverflow,c,cpp,rust#&perline=6" alt="Skill Icons" />
 </p>
 
 <p align="center">
