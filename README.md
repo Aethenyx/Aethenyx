@@ -8,6 +8,19 @@
   <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,tailwind,js,git,github,vscode,stackoverflow,c,cpp,rust#&perline=6" alt="Skill Icons" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+ </tr>
+</table>
+
 <p align="center">
   <strong>NOTE</strong>: You can <strong>fork</strong> and <strong>contribute</strong> to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 </p>
