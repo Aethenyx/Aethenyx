@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&width=100"/>
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Aethenyx+;Welcome+to+my+GitHub+playground!;Let's+code+and+chill+like+a+legend;&font=Jetbrainsmono&duration=4000&pause=1000&color=F76C6C&center=true&width=800&height=100" alt="Typing Header" />
 </p>
 
@@ -20,10 +25,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aethenyx&theme=github_dark" alt="Profile Summary Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aethenyx&theme=matrix" alt="GitHub Trophy" />
 </p>
 
 <div align="center">
