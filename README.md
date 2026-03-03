@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Aethenyx+;Welcome+to+my+GitHub+playground!;Let's+code+and+chill+like+a+legend;&font=Jetbrainsmono&duration=4000&pause=1000&color=F76C6C&center=true&width=800&height=100" alt="Typing Header" />
 </p>
 
-<h2 align="center">Languages and Technologies</h2>
+<h2 align="center">My Toolkit Includes</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,tailwind,js,bash,github,arch,neovim,stackoverflow,c,cpp,rust#&perline=6" alt="Skill Icons" />
